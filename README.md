@@ -4,9 +4,9 @@ ASP.NET Core MVC öğrenme sürecinde geliştirilen ürün yönetimi uygulaması
 
 ## Ekran Görüntüleri
 
-![Index](screenshots/index.jpg)
-![Create](screenshots/create.jpg)
-![Edit](screenshots/edit.jpg)
+![Index](screenshots/index.jpeg)
+![Create](screenshots/create.jpeg)
+![Edit](screenshots/edit.jpeg)
 
 ## Öğrenilen Konular
 
